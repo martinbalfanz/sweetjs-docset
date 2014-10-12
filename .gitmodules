@@ -1,0 +1,4 @@
+[submodule "sweet.js"]
+	path = sweet.js
+	url = https://github.com/mozilla/sweet.js.git
+	ignore = dirty
